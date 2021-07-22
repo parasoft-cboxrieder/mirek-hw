@@ -18,6 +18,7 @@ void display_time()
     
     sprintf(buf, "\n\nCurrent Time and Date is %s\n\n", t);
     print_string(buf);
+    
 }
 
 
